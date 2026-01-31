@@ -12,6 +12,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=NiveinAmarakoon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiveinAmarakoon&layout=compact&theme=radical)
+
