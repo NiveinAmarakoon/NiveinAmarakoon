@@ -2,7 +2,7 @@
 
 ### 🚀 The Full Rundown
 - 🔭 **Main Project:** Developing **EasyLang** (Making code simpler).
-- 💻 **Dev:** Pro Programmer | Node.js Specialist | Logic Junkie.
+- 💻 **Dev:** Programmer.
 - 🛡️ **Cyber:** Ethical Hacker | Penetration Testing | Security Auditing.
 - 📊 **Data:** Data Analyst | Visualization | Predictive Modeling.
 - ⚡ **Philosophy:** Automate the boring stuff; build the impossible stuff.
