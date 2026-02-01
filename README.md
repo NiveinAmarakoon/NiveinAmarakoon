@@ -1,4 +1,9 @@
-# 👋 Hey, I'm Nivein Amarakoon
+If you want to store your README content as a Python string variable (for example, if you are writing a script to automatically update your GitHub profile via the API), here is the full code.
+
+I have used a f-string so that it maintains the exact formatting and includes the Discord link at the end.
+
+Python
+readme_content = f"""# 👋 Hey, I'm Nivein Amarakoon
 
 ### 🚀 The Full Rundown
 - 🔭 **Main Project:** Developing **EasyLang** (Making code simpler).
@@ -52,3 +57,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+### 💬 Get in Touch
+Come to my Discord server: 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4dFmhrmGtn)
