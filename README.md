@@ -54,5 +54,4 @@
 ---
 
 ### 💬 Get in Touch
-Join My Discord: 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4dFmhrmGtn)
