@@ -9,6 +9,22 @@
 
 ---
 
+### 📌 Pinned on My Profile
+- ✅ **EasyLang** — A human-friendly language that makes coding simpler and faster.
+- 🤖 **Discord Automations** — Bots, moderation helpers, and community tools.
+- 🛡️ **Security Lab** — Ethical hacking experiments, write-ups, and tooling.
+- 📊 **Data Projects** — Dashboards, predictive models, and visualization work.
+- ⚙️ **Utilities & Scripts** — Quality-of-life automation for dev workflows.
+
+---
+
+### 🌟 Highlights
+- **Currently Building:** EasyLang compiler + tooling.
+- **Open to Collaborate:** Security research, automation, and data projects.
+- **Always Learning:** Advanced Rust, exploit development, and AI workflows.
+
+---
+
 ### 🛠 What I Know
 
 #### 🌐 Web & Scripting (The Essentials)
