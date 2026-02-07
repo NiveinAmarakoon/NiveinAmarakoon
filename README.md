@@ -27,15 +27,13 @@
 
 ### 💻 My Specs
 
-```lua
-       OS  :  Windows 11, Kali linux, Ubuntu
-Languages  :  JavaScript, TypeScript, Python, NodeJS, PHP, Ruby, HTML5, CSS3, C, C++, C#, Rust, Go, Java, Swift, Kotlin, Dart, R, SQL
-     Tool  :  Kali NetHunter, Metasploit, Wireshark, Nmap, Pandas, Matplotlib, PyTorch, Bash, Docker, AWS, Git
-     CPU   :  Intel Core i7 14th Generation
-     GPU   :  Intel Arc
-    GPU1   :  Nvidia MX3800
-     RAM   :  16GB DDR4
-```
+- **OS** : Windows 11, Kali Linux, Ubuntu  
+- **Languages** : JavaScript, TypeScript, Python, NodeJS, PHP, Ruby, HTML5, CSS3, C, C++, C#, Rust, Go, Java, Swift, Kotlin, Dart, R, SQL  
+- **Tools** : Kali NetHunter, Metasploit, Wireshark, Nmap, Pandas, Matplotlib, PyTorch, Bash, Docker, AWS, Git  
+- **CPU** : Intel Core i7 14th Generation  
+- **GPU** : Intel Arc  
+- **GPU1** : Nvidia MX3800  
+- **RAM** : 16GB DDR4  
 
 ### 🛠 What I Know
 
