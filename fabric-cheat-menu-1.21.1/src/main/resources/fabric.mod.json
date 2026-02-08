@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "cheatmenu",
+  "version": "${version}",
+  "name": "Cheat Menu",
+  "description": "Adds an inventory cheat menu with search and give buttons.",
+  "authors": ["Nivein"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.nivein.cheatmenu.client.CheatMenuClient"
+    ]
+  },
+  "mixins": [
+    "cheatmenu.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "1.21.1",
+    "fabric-api": "*"
+  }
+}
