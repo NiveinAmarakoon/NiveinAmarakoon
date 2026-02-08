@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.nivein.cheatmenu.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "InventoryScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
