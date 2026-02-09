@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Nivein Amarakoon
 
 ### 🚀 The Full Rundown
-- 🔭 **Main Project:** Developing **EasyLang** (Making code simpler).
 - 💻 **Dev:** Programmer.
 - 🛡️ **Cyber:** Ethical Hacker | Penetration Testing | Security Auditing.
 - 📊 **Data:** Data Analyst | Visualization | Predictive Modeling.
